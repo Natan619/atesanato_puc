@@ -3,3 +3,4 @@ Flask-SQLAlchemy==3.1.1
 Flask-Migrate==4.0.7
 psycopg2-binary
 python-dotenv
+gunicorn==20.1.0
